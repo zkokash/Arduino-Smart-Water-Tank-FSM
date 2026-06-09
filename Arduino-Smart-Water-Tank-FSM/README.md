@@ -32,8 +32,6 @@ The system continuously measures the distance to the water surface. Based on the
 You can test the live simulation of this project on Wokwi:
 **[https://wokwi.com/projects/451078412626923521]**
 
-## 📸 Screenshots
-
 ## 📸 Demo Preview
 
 ![System Demo](assets/demo_preview.gif)
