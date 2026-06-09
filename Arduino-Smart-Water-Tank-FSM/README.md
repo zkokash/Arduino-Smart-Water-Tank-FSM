@@ -38,4 +38,4 @@ You can test the live simulation of this project on Wokwi:
 
 ![System Demo](assets/demo_preview.gif)
 ---
-*Developed by [Your Name] - Computer Science Student at BAU*
+Developed by Zaid Kokash - Computer Science Student at BAU | SUT
